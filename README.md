@@ -1,7 +1,7 @@
 # npuzzle-nqueen-solver
 Npuzzle and Nqueen solver with hill climbing and simulated annealing algorithms
 
-<h2>Tips for hill climbing project</h2>
+<h2>Tips for running the project</h2>
 
 <p>you can run project by giving some arguments</p>
 
